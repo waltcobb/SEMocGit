@@ -1,5 +1,5 @@
 #Ousmane Diallo
 
-print('jon is not wanted in this group bubye')
+print('project ideas')
 
-print('Jk')
+print('d')
