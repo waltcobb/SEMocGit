@@ -1,5 +1,5 @@
 #Ousmane Diallo
 
-print('project ideas')
+print('Ousmane has little skills')
 
 print('d')
